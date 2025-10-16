@@ -1,0 +1,13 @@
+{
+  "name": "Coin Strike: Hold and Win Guide to Win | Play Coin Strike",
+  "short_name": "Coin Strike",
+  "description": "Coin Strike: Hold and Win gives you a chance for major payouts. Spin the reels to activate the bonus round. | Play Coin Strike for real money on our website.",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+
+Sitemap: https://coinstrikeholdandwin.net/sitemap.xml
